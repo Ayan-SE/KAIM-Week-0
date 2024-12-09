@@ -1,1 +1,1 @@
-# KAIM-Week-0
+# The first tutorial demo for KAIM Week 0
